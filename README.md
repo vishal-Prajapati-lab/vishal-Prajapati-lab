@@ -94,6 +94,17 @@ I'm passionate about building websites, developing useful applications, and cont
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 🎯 Areas of Expertise
+
+- 🔗 Third-Party API Development & Integration
+- 🏢 Zoho One Ecosystem & Business Automation
+- 📊 CRM Development, Customization & Integration
+- ⚙️ Workflow Automation & Business Process Optimization
+- 🛒 eCommerce Development & Integrations
+- 💳 Payment Gateway Integrations
+- ☁️ Cloud-Based Application Integrations
+- 🤖 AI-Powered Applications & API Integrations
+
 
 ### 📂 My Projects
 
