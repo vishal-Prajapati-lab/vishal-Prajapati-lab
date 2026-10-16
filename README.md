@@ -15,9 +15,20 @@ I'm passionate about building websites, developing useful applications, and cont
 - 🎯 Goal: Build and showcase professional development projects
 - 🤝 Open to learning and collaborating with other developers
 
+
 ### 🛠️ Technologies & Tools
 
-I'll be adding the languages, frameworks, and tools I use as I build my portfolio.
+#### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### CMS & Web Development
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### Version Control (Currently Learning)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 📂 My Projects
 
