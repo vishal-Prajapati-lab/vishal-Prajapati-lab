@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**vishal-Prajapati-lab/vishal-Prajapati-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vishal Prajapati 👋
 
-Here are some ideas to get you started:
+### 💻 Web Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm passionate about building websites, developing useful applications, and continuously improving my programming skills.
+
+### 🚀 About Me
+
+- 🔭 Working on web development projects
+- 🌱 Currently learning Git and GitHub
+- 💡 Interested in creating clean and responsive websites
+- 🎯 Goal: Build and showcase professional development projects
+- 🤝 Open to learning and collaborating with other developers
+
+### 🛠️ Technologies & Tools
+
+I'll be adding the languages, frameworks, and tools I use as I build my portfolio.
+
+### 📂 My Projects
+
+I'm preparing my projects to share here. Stay tuned!
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/vishal-Prajapati-lab
+
+---
+
+⭐ Thanks for visiting my profile!
